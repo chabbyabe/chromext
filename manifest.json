@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+  
+    "name": "CAOCAM Notification",
+    "description": "This extension will let you see you CAOCAM-AI notifications.",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+     ]
+  }
